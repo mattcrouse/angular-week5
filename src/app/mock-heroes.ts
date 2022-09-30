@@ -1,12 +1,10 @@
 import { Hero } from './hero';
 
 export const HEROES: Hero[] = [
-  { id: 1, name: 'Peter Lee - Project Owner/Scrum Master for Sprint 1' },
-  { id: 2, name: 'James Warren - Database/Builder' },
-  { id: 3, name: 'Matt Crouse - Frontend/Client-side Programmer' },
-  { id: 4, name: 'Nancy Do - Cloud/Designer' },
-  { id: 5, name: 'Amber Czerwinski - Security/Designer' },
-  { id: 6, name: 'Tony Tran - Backend/Server-side Programmer' },
+  { id: 390, name: 'Can Nguyen' },
+  { id: 315, name: 'Don Almeida' },
+  { id: 492, name: 'Tim Hope' },
+  { id: 342, name: 'James Holdener' },
 ];
 
 /*
